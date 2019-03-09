@@ -1,4 +1,4 @@
-package com.github.skhatri
+package com.github.skhatri.spark
 
 object SparkExample extends App {
 
