@@ -17,7 +17,7 @@ repositories {
 }
 
 task runApp(type: JavaExec) {
-  main="com.github.skhatri.spark.SparkExample"
+  main="com.github.skhatri.spark.SparkEPLStandings"
   classpath=sourceSets.main.runtimeClasspath
   jvmArgs = ['-Xms512m', '-Xms512m']
 }
