@@ -1,6 +1,6 @@
 package com.github.skhatri.spark
 
-object SparkExample extends App {
+object SparkEPLStandings extends App {
 
   import org.apache.spark.sql.SparkSession
 
